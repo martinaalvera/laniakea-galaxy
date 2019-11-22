@@ -4,9 +4,9 @@
   connection: local
   roles:
     - role: indigo-dc.galaxycloud
-      GALAXY_ADMIN_EMAIL: "martyalvera96@gmail.com"
-      GALAXY_ADMIN_USERNAME: "Marty17"
+      GALAXY_ADMIN_EMAIL: "admin_email"
+      GALAXY_ADMIN_USERNAME: "admin_username"
       GALAXY_VERSION: "release_19.05"
-      galaxy_instance_key_pub: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgAmRUWjCJo387jy6DNLqy7AOJrONDfXoj4mDhQ0ZFq5hpos4+OvheIn+iAPX0Zb5Wc6YKmAMAeVXwvT7o4rxUjkeJNVnYnCExTrBkuxNPSmSLL62hAQ1KDzuTmQlraaTRJUvDzzrX8PRtlXVgS8WfAc9Hz2Dc+1MpNGHmtyo3Io3RkduZmbK/J7rXn3+kUhkKsCZjr1q2jfCsb8j9T+jKvAxkEOyZnnhpo2XKakPmjaVg70NpCih/thsd2w3P+LBr/ws+Joz5MPhm9b6uYI/Fhi3aV+GC2o7LAbtr9inXRYpA8CqigB9xR6p7jdb1UTFyzCZNRQCt25OdzQ0ZwS+p"
+      galaxy_instance_key_pub: "admin_key_pub"
       galaxy_instance_description: "INDIGO-CNR test"
 
