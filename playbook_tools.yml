@@ -1,0 +1,9 @@
+---
+
+- hosts: localhost
+  connection: local
+  roles:
+    - role: indigo-dc.galaxycloud-tools
+      galaxy_flavor: "galaxy-testing"
+      galaxy_admin_api_key: "638f0129e68f4ffd23b1bef8dd98308f"
+      when: galaxy_flavor != "galaxy-no-tools"
