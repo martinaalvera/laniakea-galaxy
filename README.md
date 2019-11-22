@@ -9,5 +9,5 @@ playbook_tools.yml: to automatically install tools from a Tool Shed into Galaxy 
 
 playbook_refdata.yml: to automatically install reference data using the CernVM File System and the corresponding Galaxy configuration (indigo-dc.galaxycloud-refdata ansible role)
 
-For more information on [Laniakea Ansible Roles](https://laniakea.readthedocs.io/en/latest/admin_documentation/ansible/ansible_roles.html)     
-For more information on [Galaxy Flavours](https://laniakea.readthedocs.io/en/latest/user_documentation/galaxy/galaxy_flavours.html)
+More information on [Laniakea Ansible Roles](https://laniakea.readthedocs.io/en/latest/admin_documentation/ansible/ansible_roles.html)     
+More information on [Galaxy Flavours](https://laniakea.readthedocs.io/en/latest/user_documentation/galaxy/galaxy_flavours.html)
